@@ -1,0 +1,8 @@
+{
+  "name": "تطبيق الزيارات الميدانية والتفقدية",
+  "description": "تطبيق الزيارات الميدانية والتفقدية - أ. عبد اللطيف رضوان - قسم ضبط الأداء المدرسي، مديرية التربية والتعليم قلقيلية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
